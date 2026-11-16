@@ -1,3 +1,4 @@
 @charset "UTF-8";
 
 body {background-image: linear-gradient(black, white, purple);
+main {background-color: purple; color: #ffffff;}
